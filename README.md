@@ -1,2 +1,9 @@
-# redux-react-datagrid
-Example of using React DataGrid with redux
+# WebpackBin project
+
+## Start
+
+`npm install`
+
+`npm start`
+
+Go to `localhost:3000`
