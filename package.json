@@ -6,8 +6,8 @@
     "start": "webpack-dev-server --content-base build/ --port 3000"
   },
   "dependencies": {
-    "flexicious-react-datagrid": "1.4.7",
-    "flexicious-react-datagrid-styles": "1.2.4",
+    "flexicious-react-datagrid": "latest",
+    "flexicious-react-datagrid-styles": "latest",
     "react": "15.4.2",
     "react-dom": "15.4.2",
     "react-redux": "5.0.3",
